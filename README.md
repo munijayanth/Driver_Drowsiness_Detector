@@ -31,6 +31,7 @@ mouth. From here it calculates the Eye Aspect Ratio (EAR) and lip distance. The 
 ![image](https://user-images.githubusercontent.com/87426240/167243365-d9d3df15-8279-4faa-a634-07c0e5867ca5.png)
 
 If the EAR value calculated by the algorithm is lesser than the threshold value (0.3), then the algorithm sends a Drowsiness Alert is send to the user with an alarm sound.Also, if the lip distance value calculated is greater than the threshold value (20) it sends a Yawn Alert.
+
 ![image](https://user-images.githubusercontent.com/87426240/167243445-c6ce3e59-a50f-480f-880a-3c7446129d10.png)              ![image](https://user-images.githubusercontent.com/87426240/167243456-0a05ea8e-60d7-4a1f-9f5a-2a3b4dc315fa.png)
 # Conclusion
 Drowsiness detection system developed around the principle of image processing judges the driver’s alertness level on the basis of continuous eye closures With 80% accuracy, it is obvious that there are limitations to the system like Delay in sounding alarm,Orientation of face,Poor detection with spectacles,Problem with multiple faces which we cannot able to overcome but sure those will be not an issue if we enhance this detections by adding Neural networks and  by fine tuning them.
