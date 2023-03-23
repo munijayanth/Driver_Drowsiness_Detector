@@ -1,5 +1,5 @@
-# PROJECT-1
-# Drowsiness detector for Drivers
+
+# Drivers Drowsiness detector
 This is my first Machine learning project which We as a team made in our early 2nd year as a part of Project Exhibition 1.
 Yes,we came to know that there are much more sofisticated softwares in the market as well as under research than the one we made but we thought it would be better to start the journey with this approach.
 The Target audience are people who can drive 4 or more wheeled vehicles(cars,trucks)
